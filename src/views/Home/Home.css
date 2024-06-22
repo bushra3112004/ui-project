@@ -1,5 +1,12 @@
-.card{
-    background-color: aqua;
-    height: 800px;
-    width: 200px;
+.features{
+    display: flex;
+    justify-content: space-around;
+}
+.product-desc{
+    font-size: 20px;
+}
+
+.address{
+    font-size: 20px;
+    
 }
